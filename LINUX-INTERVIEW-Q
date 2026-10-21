@@ -1,0 +1,38 @@
+1. What are log files in Linux?
+2. Why is logging important in Linux?
+3. What are the common log files in Linux?
+4. Where are log files stored?
+5. What is /var/log?
+6. Difference between /run/log and /var/log.
+7. What is rsyslog?
+8. What is systemd-journald?
+9. Difference between rsyslog and systemd-journald.
+10. Which daemon is responsible for collecting logs?
+11. What is journalctl?
+12. How do you view all logs using journalctl?
+13. How do you view logs for a specific service?
+14. How do you check logs from the current boot?
+15. How do you view live logs?
+16. How do you check the last 24 hours of logs?
+17. How do you check the last one hour of logs?
+18. How do you analyze log files?
+19. What is the logger command?
+20. How do you generate logs using logger every 30 seconds?
+21. How do you create persistent journal logs?
+22. Where are SELinux logs stored?
+23. What logs do you check if SSH is not working?
+24. What logs do you check if a website is down?
+25. What is log rotation?
+26. How does logrotate work?
+27. What is the logrotate configuration file?
+28. What is the purpose of /etc/logrotate.d/?
+29. How many days are logs retained?
+30. How do you compress rotated logs?
+31. How do you send logs to another server?
+32. How do you automate log transfer using cron?
+33. What is centralized logging?
+34. How do you verify rsyslog service status?
+35. How do you troubleshoot missing logs?
+36. How do you troubleshoot log permission issues?
+37. How do you monitor logs in real time?
+38. How do you search for errors in log files?
